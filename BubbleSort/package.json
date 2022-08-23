@@ -1,0 +1,16 @@
+{
+  "name": "bubblesort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bubble.js",
+  "scripts": {
+    "start": "node Bubble.js",
+    "Dev": "nodemon Bubble.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
